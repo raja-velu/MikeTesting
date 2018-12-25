@@ -1,0 +1,16 @@
+PODS:
+  - MikeTesting (0.1.0)
+
+DEPENDENCIES:
+  - MikeTesting (from `../`)
+
+EXTERNAL SOURCES:
+  MikeTesting:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MikeTesting: 6571cd7974758ca75e5918e21cff2a6e3d2b12ae
+
+PODFILE CHECKSUM: 0f6778f296f9c216d11ffdb585536bcbad955fea
+
+COCOAPODS: 1.5.3
